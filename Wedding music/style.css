@@ -1,0 +1,97 @@
+body
+{
+	background-color:#ffffff;
+	margin-left: 0;
+	margin-right:0;
+}
+
+#logo
+{
+	margin-left:90px;
+}
+
+#text
+{
+	width: 660px;
+	margin-left: 150px;
+	height: 600px;
+	text-align:justify;
+	font-size: 20px;
+	float: left;
+	margin-top: 70px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 300;
+	color: #595959;
+}
+#text2
+{
+	width: 620px;
+	margin-left: 150px;
+	height: 500px;
+	text-align:justify;
+	font-size: 25px;
+	float: left;
+	margin-top: 70px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 300;
+	color: #595959;
+}
+#photo
+{
+	width:300px;
+	height:570px;
+	float:left;
+	margin-left: 70px;
+	margin-top:40px;
+}
+
+#music
+{
+	width: 550px;
+	height: 400px;
+	margin-left:230px;
+	margin-top: 100px;
+	margin-bottom: 100px; 
+	background-color: #585858;
+	opacity: 0.7;
+	float: left;
+	position: relative;
+}
+#play
+{
+	width: 550px;
+	background-color: #ffffff;
+	color: #417DE5;
+	position: absolute;
+	bottom: 0;
+}
+
+#footer
+{
+	color:#585858;
+	margin-bottom: 40px;
+	text-align: center;
+}
+.icon-bar {
+    width: 130px; /* Set a specific width */
+    background-color: #417DE5; /* Dark-grey background */
+	margin-top:100px;
+	float: left;
+}
+
+.icon-bar a {
+    display: block; /* Make the links appear below each other instead of side-by-side */
+    text-align: center; /* Center-align text */
+    padding: 16px; /* Add some padding */
+    transition: all 0.3s ease; /* Add transition for hover effects */
+    color: #ffffff; /* White text color */
+    font-size: 36px; /* Increased font-size */
+}
+
+.icon-bar a:hover {
+    background-color: #1C56AC; /* Add a hover color */
+}
+
+.active {
+    background-color: #2357C9; /* Add an active/current color */
+}
