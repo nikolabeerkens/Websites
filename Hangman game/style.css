@@ -1,0 +1,120 @@
+body
+{
+	background-color: #723d46;
+	color: #e26d5c;
+	font-size: 28px;
+	font-family: 'Inconsolata';
+	font-weight: 700;
+	margin: 0;
+}
+
+#pojemnik
+{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	background-color: #472d30;
+	width: 100%;
+	text-align: center;
+	font-size: 48px;
+	padding-top: 25px;
+	padding-bottom: 10px;	
+	text-transform: uppercase;
+	height: 70px;
+	
+	
+}
+
+#plansza
+{
+	width: 900px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-size: 48px;
+	min-height: 60px;
+	
+}
+
+#szubienica
+{
+	float: left;
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+
+#alfabet
+{
+	float: left;
+	width: 450px;
+	text-align: center;
+	min-height: 280px;
+}
+
+.litera
+{
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 5px;
+	border: 3px solid lightgray;
+	float: left;
+	cursor: pointer;
+	
+}
+
+.litera:hover
+{
+	background-color: #d37b6e;
+	color: #723d46;
+	border: 3px solid lightgray;
+}
+
+.nie
+{
+	color: #e09f3e;
+}
+
+.reset
+{
+	color: #e09f3e;
+	cursor: pointer;
+	font-size: 48px;
+}
+
+.reset:hover
+{
+	color: white;
+}
+
+.language1
+{
+	text-align: right;
+	font-size: 15px;
+	color: #e09f3e;
+	text-decoration: none;
+}
+
+.language1:hover
+{
+	font-size: 20px;
+}
+
+.language2
+{
+	text-align: right;
+	font-size: 15px;
+	color: #e09f3e;
+}
+
+.language2:hover
+{
+	font-size: 20px;
+}
