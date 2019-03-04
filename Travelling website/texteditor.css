@@ -1,0 +1,142 @@
+body
+{
+	background-color: #DCDCDC;
+	margin: 0;
+	text-align: center;
+}
+#container
+{
+	
+	margin:0;
+}
+
+#nav
+{
+	background-color: #636363;
+	font-size: 23px;
+	text-align: center;
+	color: #ffffff;
+	width: 260px;
+	height: 1000px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 300;
+	padding: 10px 0;
+	border-right: 4px solid #585858;
+	float: left;
+	
+	
+}
+
+input[type=submit]
+{
+	width: 1085px;
+	background-color:#7DAABC;
+	font-size:25px;
+	color: #ffffff;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	cursor: pointer;
+	border: none;
+	letter-spacing: 1px;
+	margin-top: 20px;
+	height: 53px;
+	-webkit-box-shadow: 4px 4px 10px 2px rgba(180,180,180,0.9);
+    -moz-box-shadow: 4px 4px 10px 2px rgba(180,180,180,0.9);
+    box-shadow: 4px 4px 10px 2px rgba(180,180,180,0.9);
+	border-radius: 5px;
+}
+input[type=submit]:hover
+{
+	background-color:#5896AF;
+	-webkit-box-shadow: 4px 4px 15px 5px rgba(170,170,170,1);
+    -moz-box-shadow: 4px 4px 15px 5px rgba(170,170,170,1);
+    box-shadow: 4px 4px 15px 5px rgba(170,170,170,1);
+}
+
+#logo
+{
+	background-color: #DCDCDC;
+	text-align: center;
+	padding-top: 40px;
+	font-size: 55px;
+	color: #000000;
+	font-family: 'Pompiere', cursive;
+	height:130px;
+	width: 1079px;
+	margin-left: 270px;
+	margin-bottom: 40px;
+	box-sizing: border-box;
+}
+
+textarea
+{
+	resize: none;
+	margin-left: 5px;
+}
+
+#footer
+{
+	width:100%;
+	height: 50px;
+	background-color: #ffffff;
+	color: #585858;
+	text-align: center;
+	margin-top: 20px;
+}
+
+a.sociallink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	
+}
+.sociallink:hover
+{
+	color: #dcdcdc;
+	font-size: 29px;
+}
+a.titlelink
+{   color: #B43C3C;
+	text-decoration: none;
+	display: block;
+}
+ol
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+li
+{
+	list-style-type: none;
+	padding: 0;
+	margin:0;
+	
+	
+}
+ol>li>ul
+{
+	display: none;
+}
+ol>li:hover>ul
+{
+	display: block;
+}
+ol>li>ul>li>ul
+{
+	display: block;
+}
+
+a.link
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	font-size: 15px;
+	
+	
+}
+.link:hover
+{
+	color: #DCDCDC;
+	font-size: 20px;

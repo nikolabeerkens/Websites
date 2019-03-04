@@ -1,0 +1,718 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9e67bfab0143d9511f8eef6897caeb88",
+      "css": "right",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6f7586c6f99798c3c1de6123d1f6cfa9",
+      "css": "facebook",
+      "code": 59393,
+      "src": "zocial"
+    },
+    {
+      "uid": "8045477f6a7ef0bd7caff130ad25b88d",
+      "css": "facebook-rect",
+      "code": 62209,
+      "src": "brandico"
+    },
+    {
+      "uid": "9725db89b610135dc76cd8a21afffa83",
+      "css": "search",
+      "code": 59395,
+      "src": "linecons"
+    },
+    {
+      "uid": "91bac16b22827347e9ee20477f0b44d2",
+      "css": "mail",
+      "code": 59396,
+      "src": "linecons"
+    },
+    {
+      "uid": "1e89103762be72b0720eda0468e62b90",
+      "css": "globe",
+      "code": 59397,
+      "src": "linecons"
+    },
+    {
+      "uid": "6fbd93c0d220507921015a15575009e5",
+      "css": "paper-plane",
+      "code": 59398,
+      "src": "linecons"
+    },
+    {
+      "uid": "32eebd7bef491a0cbf9bc839e40d271c",
+      "css": "forward",
+      "code": 59399,
+      "src": "websymbols"
+    },
+    {
+      "uid": "c64623255a4a7c72436b199b05296c4f",
+      "css": "emo-happy",
+      "code": 59400,
+      "src": "fontelico"
+    },
+    {
+      "uid": "1ba44825e5f10920b4e3f1d0c73f79a2",
+      "css": "emo-wink",
+      "code": 59401,
+      "src": "fontelico"
+    },
+    {
+      "uid": "4bb2045a2aca451705fe8a23c4a576ab",
+      "css": "emo-wink2",
+      "code": 59411,
+      "src": "fontelico"
+    },
+    {
+      "uid": "53ed8570225581269cd7eff5795e8bea",
+      "css": "emo-unhappy",
+      "code": 59402,
+      "src": "fontelico"
+    },
+    {
+      "uid": "fd59eac4d575b48eb156590b63a355fd",
+      "css": "emo-sleep",
+      "code": 59403,
+      "src": "fontelico"
+    },
+    {
+      "uid": "142263941b9f4cd4b2b84f1f4cd13b1d",
+      "css": "emo-thumbsup",
+      "code": 59404,
+      "src": "fontelico"
+    },
+    {
+      "uid": "4dd56d61fd0dab19277824da301424b3",
+      "css": "emo-devil",
+      "code": 59405,
+      "src": "fontelico"
+    },
+    {
+      "uid": "68e298ff2d8b25dd7f647ed64f5ae690",
+      "css": "emo-surprised",
+      "code": 59406,
+      "src": "fontelico"
+    },
+    {
+      "uid": "48cc210e59ff4bc56b6c8fba6eb384b8",
+      "css": "emo-coffee",
+      "code": 59407,
+      "src": "fontelico"
+    },
+    {
+      "uid": "bb68a13a3574b087d4350eff0b8d48e3",
+      "css": "emo-tongue",
+      "code": 59408,
+      "src": "fontelico"
+    },
+    {
+      "uid": "078fec38562c3f83a1201a908040c141",
+      "css": "emo-sunglasses",
+      "code": 59409,
+      "src": "fontelico"
+    },
+    {
+      "uid": "043b585886018be7408f4c77c1a3759c",
+      "css": "emo-displeased",
+      "code": 59410,
+      "src": "fontelico"
+    },
+    {
+      "uid": "3a900d0e9f43f5409211f62bec557379",
+      "css": "emo-beer",
+      "code": 59412,
+      "src": "fontelico"
+    },
+    {
+      "uid": "cbc328d1c779a2b9e3b1199d904199a5",
+      "css": "emo-grin",
+      "code": 59413,
+      "src": "fontelico"
+    },
+    {
+      "uid": "f0d3ad15d020cf187d42dd3b2295b65c",
+      "css": "emo-angry",
+      "code": 59414,
+      "src": "fontelico"
+    },
+    {
+      "uid": "5195e2dcb4a63fbb8c09896a8058f6ab",
+      "css": "emo-saint",
+      "code": 59415,
+      "src": "fontelico"
+    },
+    {
+      "uid": "04688d76a33ce7a7950e40fae79c08ac",
+      "css": "emo-cry",
+      "code": 59416,
+      "src": "fontelico"
+    },
+    {
+      "uid": "fc92480dedc439d274d4e3e4b425edf4",
+      "css": "emo-squint",
+      "code": 59417,
+      "src": "fontelico"
+    },
+    {
+      "uid": "2bd5f98482d86649958312ea2ab5bb40",
+      "css": "emo-laugh",
+      "code": 59418,
+      "src": "fontelico"
+    },
+    {
+      "uid": "4843d0d6050dd508d4c101a334f46db2",
+      "css": "emo-shoot",
+      "code": 59419,
+      "src": "fontelico"
+    },
+    {
+      "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
+      "css": "spin5",
+      "code": 59448,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search-1",
+      "code": 59420,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram-2",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6b6e59e33915710a9f935b04a06d507d",
+      "css": "camera",
+      "code": 59421,
+      "src": "elusive"
+    },
+    {
+      "uid": "77bf693b887ab9243826db6e682ea973",
+      "css": "globe-inv",
+      "code": 61465,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "117d7f4e196f826847929c6550734615",
+      "css": "globe-1",
+      "code": 61464,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "54c3330bdeed0fb9042e12d16d46c9ab",
+      "css": "right-fat",
+      "code": 59422,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "e26b9d4bdcd0b60ed2cafa8f41ffc6d2",
+      "css": "right-bold",
+      "code": 59424,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "413160f2a26366d3c1d544bf1221a6ca",
+      "css": "left-bold",
+      "code": 59425,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "bd6176c7f1bd64eec8904241316f2f52",
+      "css": "down-bold",
+      "code": 59426,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "335c443d3231b944287309aa2593c880",
+      "css": "down-fat",
+      "code": 59427,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "fd2ed680ef900acb68836a99ec1a4de7",
+      "css": "left-fat",
+      "code": 59423,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "985defa766987e1e038c807527100b15",
+      "css": "up-bold",
+      "code": 59428,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "d21293ba68a7dcfec696464ae64949e1",
+      "css": "up-fat",
+      "code": 59429,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "4615d277156195624f442e69958ea863",
+      "css": "calendar",
+      "code": 62661,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "f1315f7ea135cbea7966cce0e7c10ce0",
+      "css": "snow-heavy-inv",
+      "code": 59432,
+      "src": "meteocons"
+    },
+    {
+      "uid": "ab5c31256cdd1f6b2d6de7202936f5a1",
+      "css": "hail-inv",
+      "code": 59433,
+      "src": "meteocons"
+    },
+    {
+      "uid": "906a8ebb0faf8db0411028a0364bb16d",
+      "css": "temperature",
+      "code": 59435,
+      "src": "meteocons"
+    },
+    {
+      "uid": "c1306ee779029bed4f5a2b9b4f5c79e8",
+      "css": "sun-inv",
+      "code": 59436,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2adfda136b09532bd8174b025b67fe87",
+      "css": "moon-inv",
+      "code": 59437,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2c304ff49075ec9647f498504651abf5",
+      "css": "cloud-sun-inv",
+      "code": 59439,
+      "src": "meteocons"
+    },
+    {
+      "uid": "7162ef3c04c51e39b8670cfedb15bcc3",
+      "css": "cloud-inv",
+      "code": 59438,
+      "src": "meteocons"
+    },
+    {
+      "uid": "c823149b79158a2bd56d802a6a6f1d1c",
+      "css": "cloud-moon-inv",
+      "code": 59440,
+      "src": "meteocons"
+    },
+    {
+      "uid": "4bc859f73783486400fc769a90d0a8e0",
+      "css": "cloud-flash-inv",
+      "code": 59441,
+      "src": "meteocons"
+    },
+    {
+      "uid": "8d8a2d9bcc41c7ac794e83ffbb919c3c",
+      "css": "rain-inv",
+      "code": 59443,
+      "src": "meteocons"
+    },
+    {
+      "uid": "1c2a34e8bd2f8a53e3b059447a8e544f",
+      "css": "sunrise",
+      "code": 59445,
+      "src": "meteocons"
+    },
+    {
+      "uid": "95fb2e5fdd1ea7e4a420b6ed330e6b08",
+      "css": "sun",
+      "code": 59446,
+      "src": "meteocons"
+    },
+    {
+      "uid": "34e68aa8fbf61f02a748043ccf448a3b",
+      "css": "moon",
+      "code": 59447,
+      "src": "meteocons"
+    },
+    {
+      "uid": "48ab39ab0ba664052cfbf0e52563246a",
+      "css": "eclipse",
+      "code": 59449,
+      "src": "meteocons"
+    },
+    {
+      "uid": "a555120b3743d482efcc3058733d3fd9",
+      "css": "mist",
+      "code": 59450,
+      "src": "meteocons"
+    },
+    {
+      "uid": "d0c325468a74095e565664bec2623aa3",
+      "css": "snowflake",
+      "code": 59452,
+      "src": "meteocons"
+    },
+    {
+      "uid": "9cd3e294ca3ad3dda66bc5a804021c46",
+      "css": "cloud-sun",
+      "code": 59453,
+      "src": "meteocons"
+    },
+    {
+      "uid": "2440f961b415837c6bf30424a6711708",
+      "css": "cloud-moon",
+      "code": 59454,
+      "src": "meteocons"
+    },
+    {
+      "uid": "17463471d0f132cee16835507ea51ecf",
+      "css": "cloud",
+      "code": 59459,
+      "src": "meteocons"
+    },
+    {
+      "uid": "cc1179bd34dcbe7bf80785075af60d37",
+      "css": "cloud-flash",
+      "code": 59460,
+      "src": "meteocons"
+    },
+    {
+      "uid": "d577552bb94bdeb53e6517873481aeea",
+      "css": "rain",
+      "code": 59463,
+      "src": "meteocons"
+    },
+    {
+      "uid": "5fad7d41511701337ddd5ad9896edc4b",
+      "css": "windy",
+      "code": 59464,
+      "src": "meteocons"
+    },
+    {
+      "uid": "0f6059e468716a93329821bcbf11220d",
+      "css": "snow-heavy",
+      "code": 59468,
+      "src": "meteocons"
+    },
+    {
+      "uid": "b500010a53f4807828ac252725dc6fd1",
+      "css": "hail",
+      "code": 59469,
+      "src": "meteocons"
+    },
+    {
+      "uid": "b215adc51ca2aa37e7bbe244d1fa52cc",
+      "css": "clouds",
+      "code": 59470,
+      "src": "meteocons"
+    },
+    {
+      "uid": "957fd72e52a0e9eb585a0361114c4c83",
+      "css": "fog-sun",
+      "code": 59455,
+      "src": "meteocons"
+    },
+    {
+      "uid": "39a24b1eb625a4a551585745107e8ef0",
+      "css": "celcius",
+      "code": 59442,
+      "src": "meteocons"
+    },
+    {
+      "uid": "i6ej1r6t84xouh0dct7g9zyx3ya9s9eg",
+      "css": "globe-2",
+      "code": 59430,
+      "src": "modernpics"
+    },
+    {
+      "uid": "1n2jlgp5brxxzpvvrly6jbfutnk2fpra",
+      "css": "camera-1",
+      "code": 59431,
+      "src": "modernpics"
+    },
+    {
+      "uid": "pt5lb2orj9ms0n4yyxjavefdukcv1scl",
+      "css": "heart",
+      "code": 59434,
+      "src": "modernpics"
+    },
+    {
+      "uid": "c2152732d525871cf35345955854f711",
+      "css": "moon-inv-1",
+      "code": 59444,
+      "src": "iconic"
+    },
+    {
+      "uid": "3dbc94f3878ecb524fd61d9de3aeabd5",
+      "css": "moon-1",
+      "code": 59451,
+      "src": "iconic"
+    },
+    {
+      "uid": "606054f1c67f8193d59d9c12e3f4d3e1",
+      "css": "flash",
+      "code": 59456,
+      "src": "iconic"
+    },
+    {
+      "uid": "48050e07077b01021f7fbdbbec8f7de7",
+      "css": "sun-inv-1",
+      "code": 59457,
+      "src": "iconic"
+    },
+    {
+      "uid": "9f41cbda67dafb38926a4201a01691c9",
+      "css": "sun-1",
+      "code": 59458,
+      "src": "iconic"
+    },
+    {
+      "uid": "08a23ea96a596b1b5f12f6abbbc8f5f9",
+      "css": "location",
+      "code": 59461,
+      "src": "iconic"
+    },
+    {
+      "uid": "d6944e1d9af302093d43b299bbecbbbe02",
+      "css": "home",
+      "code": 59462,
+      "src": "iconic"
+    },
+    {
+      "uid": "ccd52a22af21fbaa98a9c85fb50fca6b",
+      "css": "info",
+      "code": 59465,
+      "src": "iconic"
+    },
+    {
+      "uid": "n1ld0w7zazkxq7bsqtksyez86sdufqgd",
+      "css": "globe-alt",
+      "code": 59466,
+      "src": "typicons"
+    },
+    {
+      "uid": "63ec74ce71635a8fc128c2eef73b96ae",
+      "css": "globe-alt-outline",
+      "code": 59467,
+      "src": "typicons"
+    },
+    {
+      "uid": "87d337fee4866c2c28f6082994ce0f41",
+      "css": "map",
+      "code": 59471,
+      "src": "typicons"
+    },
+    {
+      "uid": "gjt8ba5q0n3nn8ptw6324sflr8qoaeam",
+      "css": "location-1",
+      "code": 59472,
+      "src": "typicons"
+    },
+    {
+      "uid": "cka09asalx8otiykquyp5d9tymlan1o3",
+      "css": "direction",
+      "code": 59474,
+      "src": "typicons"
+    },
+    {
+      "uid": "0d5c609b66c40a8482943f18235da869",
+      "css": "direction-outline",
+      "code": 59473,
+      "src": "typicons"
+    },
+    {
+      "uid": "547c96163e3724fa7384f6ddce0c10e7",
+      "css": "compass",
+      "code": 59475,
+      "src": "typicons"
+    },
+    {
+      "uid": "13289e807e02b1d46f2fe10d81d6fba6",
+      "css": "location-outline",
+      "code": 59476,
+      "src": "typicons"
+    },
+    {
+      "uid": "8f28d948aa6379b1a69d2a090e7531d4",
+      "css": "warning-empty",
+      "code": 59477,
+      "src": "typicons"
+    },
+    {
+      "uid": "dd4b00255957a608953c409346e7d7fb",
+      "css": "warning",
+      "code": 59478,
+      "src": "typicons"
+    },
+    {
+      "uid": "ani12ucvy2plqmykysnk4zd9i24cmxqp",
+      "css": "thumbs-down",
+      "code": 59480,
+      "src": "typicons"
+    },
+    {
+      "uid": "tau7t0t38662eqxrb80ozeiase5em2x9",
+      "css": "thumbs-up",
+      "code": 59479,
+      "src": "typicons"
+    },
+    {
+      "uid": "w3nzesrlbezu6f30q7ytyq919p6gdlb6",
+      "css": "home-1",
+      "code": 59481,
+      "src": "typicons"
+    },
+    {
+      "uid": "aklhk54yg779pgovdsjr9r9w22hej00n",
+      "css": "camera-2",
+      "code": 59482,
+      "src": "typicons"
+    },
+    {
+      "uid": "05de65980bb8a3711da037c2cc25f4f8",
+      "css": "camera-outline",
+      "code": 59483,
+      "src": "typicons"
+    },
+    {
+      "uid": "t6cy82vd3t5piy0j3uknrlrzpg1ld8y3",
+      "css": "search-2",
+      "code": 59484,
+      "src": "typicons"
+    },
+    {
+      "uid": "1be0ad37c941fcc88233d38c2e460cf5",
+      "css": "search-outline",
+      "code": 59485,
+      "src": "typicons"
+    },
+    {
+      "uid": "6e8aea8fff9525dfc5149f0c03669091",
+      "css": "flight",
+      "code": 59486,
+      "src": "entypo"
+    },
+    {
+      "uid": "6a12c2b74456ea21cc984e11dec227a1",
+      "css": "globe-3",
+      "code": 59487,
+      "src": "entypo"
+    },
+    {
+      "uid": "8c8f768607b8fc4c92c0f85b488e87e8",
+      "css": "up-bold-1",
+      "code": 59488,
+      "src": "entypo"
+    },
+    {
+      "uid": "1a90b06af8614b12d8c8a5b90cc19ab3",
+      "css": "right-bold-1",
+      "code": 59489,
+      "src": "entypo"
+    },
+    {
+      "uid": "0222089fb4194cc714dcc1ffd2525c11",
+      "css": "left-bold-1",
+      "code": 59490,
+      "src": "entypo"
+    },
+    {
+      "uid": "78944e4652d6f9b8b506eaef331308cd",
+      "css": "down-bold-1",
+      "code": 59491,
+      "src": "entypo"
+    },
+    {
+      "uid": "43c4064ec1260d0e55c37e0467c75cbb",
+      "css": "up",
+      "code": 59492,
+      "src": "entypo"
+    },
+    {
+      "uid": "6acd5cf005d48f96787350e72bd45688",
+      "css": "left",
+      "code": 59493,
+      "src": "entypo"
+    },
+    {
+      "uid": "d5098cb09be5827a2911dbab5af49ad2",
+      "css": "down",
+      "code": 59494,
+      "src": "entypo"
+    },
+    {
+      "uid": "a42b598e4298f3319b25a2702a02e7ff",
+      "css": "location-2",
+      "code": 59496,
+      "src": "entypo"
+    },
+    {
+      "uid": "64f5a50cf7ac972a56a9a511acb5d28e",
+      "css": "map-1",
+      "code": 59495,
+      "src": "entypo"
+    },
+    {
+      "uid": "c117f17c0316ef71fb2a658c4c273002",
+      "css": "compass-1",
+      "code": 59497,
+      "src": "entypo"
+    },
+    {
+      "uid": "f8513213799b244e66b2836aeee88531",
+      "css": "direction-1",
+      "code": 59498,
+      "src": "entypo"
+    },
+    {
+      "uid": "540b6a4262be769515c79700618b4aea",
+      "css": "address",
+      "code": 59499,
+      "src": "entypo"
+    },
+    {
+      "uid": "85017ab6ca074831a8de771b40e9640c",
+      "css": "camera-3",
+      "code": 59500,
+      "src": "entypo"
+    },
+    {
+      "uid": "79beb8c7fcd56e1985b70e9a120cbcbf",
+      "css": "map-2",
+      "code": 62073,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c62cbc7fa604e32cc19731a3bb29be79",
+      "css": "map-o",
+      "code": 62072,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fbc6facd27f744438410cbcad545bf52",
+      "css": "tripadvisor",
+      "code": 62050,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "531bc468eecbb8867d822f1c11f1e039",
+      "css": "calendar-1",
+      "code": 59394,
+      "src": "fontawesome"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+body
+{
+	background-color: #ffffff;
+}
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#photo
+{
+	width: 900px;
+	height: 463px;
+	background-color: #ffffff;
+}
+
+#nav
+{
+	background-color: #ffffff;
+	font-size: 20px;
+	text-align: center;
+	color: #676767;
+	width: 271px;
+	margin-top: 10px;
+	height: 350px;
+	margin-left: 20px;
+	background-image: url('gplaypatternkopia.png');
+	font-family: 'Alegreya Sans SC', sans-serif;
+	border-radius: 2px;
+
+}
+
+#text
+{
+	float:left;
+	background-color: #ffffff;
+	margin-top: 10px;
+	width: 610px;
+	height: 600px;
+	text-align: justify;
+	font-size: 21px;
+	color: #585858;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 300;
+}
+
+#ad
+{
+	background-color: #585858;
+	width: 271px;
+	height: 240px;
+	margin-top: 10px;
+	margin-left: 20px;
+	
+}
+
+#footer
+{
+	width:900px;
+	height: 50px;
+	background-color: #ffffff;
+	color: #585858;
+	text-align: center;
+	margin-top: 10px;
+	
+}
+
+.sticky
+{
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+}
+.rectangle
+{
+	float: left;
+	width: 100px;
+	height: 300px;
+	float: left;
+}
+
+a.sociallink
+{
+	color: #676767;
+	text-decoration: none;
+	display: block;
+	
+}
+.sociallink:hover
+{
+	color: #4C5AA8;
+	font-size: 30px;
+}
+a.titlelink
+{   color: #4C5AA8;
+	text-decoration: none;
+	display: block;
+	
+	
+}
+ol
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+li
+{
+	list-style-type: none;
+	padding: 0;
+	margin:0;
+}
+a.link
+{
+	color: #676767;
+	text-decoration: none;
+	display: block;
+	font-size: 15px;
+	
+	
+}
+.link:hover
+{
+	color: #4C5AA8;
+	font-size: 20px;
+}

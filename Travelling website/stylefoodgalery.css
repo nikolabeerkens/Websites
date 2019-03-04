@@ -1,0 +1,86 @@
+body
+{
+	background-color: #ffffff;
+	text-align: center;
+	
+}
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#image1
+{
+	
+	width: 900px;
+	height: 384px;
+	background-color: #585858;
+	margin-top: 90px;
+	margin-right: 90px;
+	margin-left: 220px;
+}
+
+#image2
+{
+	width: 900px;
+	height: 384px;
+	background-color: #585858;
+	margin: 70px;
+	margin-left: 220px;
+}
+
+#logo
+{
+	background-color: #ffffff;
+	margin-top: 80px;
+	text-align: center;
+	font-size: 55px;
+	color: #000000;
+	font-family: 'Pompiere', cursive;
+	height:90px;
+}
+
+
+.img__description {
+  position: absolute;
+  text-align: center;
+  padding: 75px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  width:900px;
+  margin-top: 0;
+  box-sizing: border-box;
+  height: 384px;
+  background: rgba(0, 0, 0, 0.50);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+#image1:hover .img__description {
+  visibility: visible;
+  opacity: 1;
+}
+#image2:hover .img__description {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+
+
+#footer
+{
+	width:100%;
+	height: 50px;
+	background-color: #ffffff;
+	color: #585858;
+	text-align: center;
+	margin-top: 20px;
+}
