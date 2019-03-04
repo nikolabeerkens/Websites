@@ -1,0 +1,162 @@
+body
+{
+	background-color: #ffffff;
+	color: #3F3F3F ;
+	font-size: 22px;
+}
+
+#container
+{
+	width: 1010px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#photo
+{
+	float: left;
+	margin-top: 120px;
+	margin-left: 5px;
+}
+#logo
+{
+	float: left;
+	width: 198px;
+	height: 150px;
+}
+#image
+{
+	width: 800px;
+	height: 150px;
+	text-align: center;
+	font-size: 80px;
+	font-family: 'Amatic SC', cursive;
+	margin-top: 60px;
+	color: #000000;
+	margin-left: 100px;
+	box-sizing: border-box;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+
+
+.fb
+{
+	margin: 5px;
+	width: 140px;
+	height: 130px;
+	background-color: #4668b3;
+	float: left;
+	border-radius: 20px;
+	margin-left: 20px;
+    
+    
+}
+
+.fb:hover
+{
+	background-color: #3557a2;
+}
+
+
+
+
+a.tilelink
+{
+	color: #111111;
+	text-decoration: none;
+	display: block;
+	margin-top:18px;
+	height: 38px;
+	width:180px;
+	
+}
+	a.tilelink:hover
+	{
+	-webkit-box-shadow: 1px 2px 10px 3px rgba(204,204,204,0.9);
+    -moz-box-shadow: 1px 2px 10px 3px rgba(204,204,204,0.9);
+    box-shadow: 1px 2px 10px 3px rgba(204,204,204,0.9);
+	}
+
+a.sociallink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 105px;
+	height: 142px;
+}
+
+a.tile
+{
+	color: #111111;
+	text-decoration: none;
+	font-size: 29px;
+	display: block;
+	margin-top:18px;
+	height: 38px;
+	width:180px;
+	-webkit-box-shadow: 1px 2px 10px 3px rgba(204,204,204,0.9);
+    -moz-box-shadow: 1px 2px 10px 3px rgba(204,204,204,0.9);
+    box-shadow: 1px 2px 10px 3px rgba(204,204,204,0.9);
+	
+}
+
+
+
+#nav
+{
+	float: left;
+	font-size: 27px;
+	text-align: center;
+	color: #ffffff;
+	width: 200px;
+	margin-top: 10px;
+	height: 420px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 300;
+	
+	
+}
+
+#text
+{
+	float:left;
+	margin-left:10px;
+	margin-top: 10px;
+	width: 590px;
+	height: 400px;
+	text-align: justify;
+	color: #585858;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 300;
+	padding: 25px;
+	box-sizing: border-box;
+	
+}
+
+#ad
+{
+	width: 580px;
+	height: 150px;
+	margin-top: 10px;
+	float: left;
+	
+}
+
+#footer
+{
+	width:900px;
+	height: 50px;
+	color: #585858;
+	text-align: center;
+	margin-top: 10px;
+	font-weight: 300; 
+	box-sizing: border-box;
+	padding-left: 150px;
+	font-size: 18px;
+}
+
+
+
+
